@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Abbas</h1>
 <h3 align="center">In way to complete Computer Engineering!</h3>
 
-- 🌱 I’m currently learning **Python, Data Science**
+- 🌱 I’m currently learning **Python, Data Science and many other courses**
 
 
 <h3 align="left">Languages and Tools:</h3>
