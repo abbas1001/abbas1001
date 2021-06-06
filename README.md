@@ -12,5 +12,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=smabbas.abbas)
 
+</p>
+<img src="https://camo.githubusercontent.com/3e44662364023a6a769b564f9ba06e64e8ab671670d352fe327be24cdadb5f91/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f6873696e72617a6161266c61796f75743d636f6d70616374" alt="abbas1001" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsinrazaa&amp;layout=compact" style="max-width:100%;">
+
 
 
