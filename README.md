@@ -2,7 +2,8 @@
 <h3 align="center">In way to complete Computer Engineering!</h3>
 
 - 🌱 I’m currently learning **SQA (Software quality assurance (SQA))!**
--I have a/an,
+</p>
+I have a/an,
 Basic understanding of good UI design with meticulous attention to detail
 Ability to learn new applications quickly
 Ability to respectfully speak up on quality matters
